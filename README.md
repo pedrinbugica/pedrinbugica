@@ -1,16 +1,34 @@
-## Hi there 👋
+## Olá! Me chamo **Pedro Henrique Bugica** 👋
 
-<!--
-**pedrinbugica/pedrinbugica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de **Sites e Sistemas** utilizando:
+- Supabase
+- Node.js
+- React
+- Tailwind CSS
+- Integrações com Inteligências Artificiais (ChatGPT Premium, Lovable, entre outras)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação
+- Mais de **8 cursos profissionais** concluídos
+- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+
+---
+
+### 📈 Projetos em destaque
+
+- [Impulso Digital](https://impulso-digital-landing.lovable.app) — Landing page para curso de marketing
+- [Essenza Bella](https://essenza-bella-landing.lovable.app) — Site para clínica de estética
+- [Rivelino Advocacia](https://rivelino.com.br) — Site institucional para escritório jurídico
+
+---
+
+### 📢 Contato
+- Me chame no WhatsApp: [wa.me/5544988271929](https://wa.me/5544988271929)
+
+---
+
+### ✨ Sobre mim
+Sou apaixonado por criar soluções inteligentes e visuais modernos. Trabalho com foco em qualidade, performance e resultados reais para quem precisa de um site funcional, bonito e eficiente.
+
+Se quiser conversar ou orçar um projeto, só chamar!
