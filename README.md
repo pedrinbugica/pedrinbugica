@@ -1,34 +1,43 @@
-## Olá! Me chamo **Pedro Henrique Bugica** 👋
+## 👋 Olá, sou Pedro Henrique Bugica!
 
-Desenvolvedor de **Sites e Sistemas** utilizando:
-- Supabase
-- Node.js
-- React
-- Tailwind CSS
-- Integrações com Inteligências Artificiais (ChatGPT Premium, Lovable, entre outras)
+🧠 Desenvolvedor de Sites e Sistemas personalizados  
+🚀 Utilizando **Supabase**, **Node.js**, **React**, **Tailwind CSS**, **Vite**, **TypeScript**, **shadcn/ui**  
+🤖 Também trabalho com **ferramentas de IA** como **ChatGPT Premium** e **Lovable.dev**
 
 ---
 
-### 🎓 Formação
-- Mais de **8 cursos profissionais** concluídos
-- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+### 📌 Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
+- 🎯 Já concluí **8+ cursos técnicos** na área de programação e tecnologia
+- 💡 Experiência com sites institucionais, landing pages e sistemas com back-end funcional
+- 🌍 Foco em performance, design moderno e acessibilidade
 
 ---
 
-### 📈 Projetos em destaque
+### 🛠️ Tecnologias e Ferramentas que uso
 
-- [Impulso Digital](https://impulso-digital-landing.lovable.app) — Landing page para curso de marketing
-- [Essenza Bella](https://essenza-bella-landing.lovable.app) — Site para clínica de estética
-- [Rivelino Advocacia](https://rivelino.com.br) — Site institucional para escritório jurídico
-
----
-
-### 📢 Contato
-- Me chame no WhatsApp: [wa.me/5544988271929](https://wa.me/5544988271929)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-### ✨ Sobre mim
-Sou apaixonado por criar soluções inteligentes e visuais modernos. Trabalho com foco em qualidade, performance e resultados reais para quem precisa de um site funcional, bonito e eficiente.
+### 🌐 Projetos em Destaque
 
-Se quiser conversar ou orçar um projeto, só chamar!
+| Projeto | Descrição |
+|--------|-----------|
+| [Impulso Digital](https://impulso-digital-landing.lovable.app) | Landing page moderna para curso de marketing digital |
+| [Essenza Bella](https://essenza-bella-landing.lovable.app) | Página institucional fictícia para clínica de estética |
+| [Rivelino Advocacia](https://rivelino.com.br) | Site institucional completo para escritório jurídico |
+
+---
+
+### 📲 Contato
+
+👉 [Fale comigo no WhatsApp](https://wa.me/5544988271929)
+
+---
