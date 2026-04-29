@@ -9,7 +9,7 @@
 ### 📌 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 🎯 Já concluí **8+ cursos técnicos** na área de programação e tecnologia
+- 🎯 Já concluí **22+ cursos técnicos** na área de programação e tecnologia
 - 💡 Experiência com sites institucionais, landing pages e sistemas com back-end funcional
 - 🌍 Foco em performance, design moderno e acessibilidade
 
