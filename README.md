@@ -38,9 +38,11 @@
 
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
-| [Impulso Digital](https://impulso-digital-landing.lovable.app) | Landing page moderna para curso de marketing digital | React · Tailwind |
-| [Essenza Bella](https://essenza-bella-landing.lovable.app) | Página institucional fictícia para clínica de estética | React · Tailwind |
-| [Rivelino Advocacia](https://rivelino.com.br) | Site institucional completo para escritório jurídico | Node.js · Supabase |
+| [🤖 Bot Discord Mix](https://github.com/pedrinbugica/bot-discord-mix-) | Bot CS2 com fila 5v5, veto de mapas BO3 e assistente de IA integrado (OpenAI API) | Node.js · Discord.js · OpenAI |
+| [🧠 Análise Psicossocial NR-1](https://github.com/pedrinbugica/n8n-psychosocial-risk-ai) | Workflow n8n + OpenAI que classifica risco psicossocial automaticamente via webhook | n8n · OpenAI · Webhook |
+| [💬 Portfólio com Chat IA](https://pedrobugica.dev) | Site pessoal com assistente de IA via Vercel Serverless Functions + OpenAI | React · TypeScript · OpenAI |
+| [🏥 Sistema Psicossocial NR-1](https://github.com/pedrinbugica/prompt-chave-seguro) | Plataforma SaaS para gestão de avaliações psicossociais NR-1 (COPSOQ II) com dashboard e relatórios | React · TypeScript · Supabase |
+| [⚖️ Rivelino Advocacia](https://rivelino.com.br) | Site institucional completo para escritório jurídico | Node.js · Supabase |
 
 ---
 
