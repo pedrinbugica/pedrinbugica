@@ -32,17 +32,19 @@ Sou desenvolvedor full stack de **Maringá – PR**. Construo aplicações web c
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,react,vite,tailwind&perline=8" alt="Linguagens e frameworks" />
-  </a>
-  <br/><br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,idea,vscode&perline=6" alt="Banco de dados e ferramentas" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,postgres,supabase,git&perline=8" alt="Tecnologias principais" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS" />
-  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white" alt="Liquibase" />
+  <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="JPA" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Liquibase-2962FF?style=flat-square&logo=liquibase&logoColor=white" alt="Liquibase" />
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white" alt="AngularJS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
 ### 🤖 IA & Automação
@@ -58,16 +60,12 @@ Sou desenvolvedor full stack de **Maringá – PR**. Construo aplicações web c
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalhes do perfil" width="100%" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" width="40%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" width="40%" />
 </p>
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" width="49%" />
-  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens mais usadas" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pedrinbugica&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+  <img src="https://streak-stats.demolab.com?user=pedrinbugica&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" width="60%" />
 </p>
 
 ---
