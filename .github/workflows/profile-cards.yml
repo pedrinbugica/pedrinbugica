@@ -1,0 +1,19 @@
+name: Gerar cards do perfil
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # roda todo dia às 3h (UTC)
+  workflow_dispatch:       # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
