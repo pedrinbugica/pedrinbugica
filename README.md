@@ -1,8 +1,8 @@
 ## 👋 Olá, sou Pedro Henrique Bugica!
 
-🤖 Desenvolvedor focado em **IA e Automação de Sistemas**
-🚀 Construindo soluções com **Supabase**, **Node.js**, **React**, **TypeScript** e **Agentes de IA**
-⚡ Transformando processos manuais em fluxos inteligentes e automatizados
+💻 **Desenvolvedor Full Stack**
+🚀 Construindo aplicações completas, do front-end ao banco de dados
+⚡ Transformando processos manuais em sistemas eficientes e automatizados
 
 ---
 
@@ -10,39 +10,43 @@
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
 - 🎯 Já concluí **22+ cursos técnicos** em programação e tecnologia
-- 🧠 Especializado em integração de **LLMs**, **automações** e **sistemas com IA**
-- 💡 Experiência com sites institucionais, landing pages e sistemas com back-end funcional
+- 🧩 Experiência com front-end, back-end, banco de dados e integrações com IA
+- 💡 Já desenvolvi sites institucionais, landing pages e sistemas com back-end funcional
 - 🌍 Foco em performance, design moderno e acessibilidade
 
 ---
 
-### 🛠️ Stack Principal
+### 🎨 Front-end
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Back-end
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🗄️ Banco de Dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
 
 ### 🤖 IA & Automação
 
 ![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Lovable](https://img.shields.io/badge/Lovable.dev-FF6B6B?style=for-the-badge&logoColor=white)
 
----
+### 🧰 Ferramentas
 
-### 🌐 Projetos em Destaque
-
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| [🤖 Bot Discord Mix](https://github.com/pedrinbugica/bot-discord-mix-) | Bot CS2 com fila 5v5, veto de mapas BO3 e assistente de IA integrado (OpenAI API) | Node.js · Discord.js · OpenAI |
-| [🧠 Análise Psicossocial NR-1](https://github.com/pedrinbugica/n8n-psychosocial-risk-ai) | Workflow n8n + OpenAI que classifica risco psicossocial automaticamente via webhook | n8n · OpenAI · Webhook |
-| [💬 Portfólio com Chat IA](https://pedrobugica.dev) | Site pessoal com assistente de IA via Vercel Serverless Functions + OpenAI | React · TypeScript · OpenAI |
-| [🏥 Sistema Psicossocial NR-1](https://github.com/pedrinbugica/prompt-chave-seguro) | Plataforma SaaS para gestão de avaliações psicossociais NR-1 (COPSOQ II) com dashboard e relatórios | React · TypeScript · Supabase |
-| [⚖️ Rivelino Advocacia](https://rivelino.com.br) | Site institucional completo para escritório jurídico | Node.js · Supabase |
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -58,5 +62,3 @@
 ### 📲 Contato
 
 👉 [Fale comigo no WhatsApp](https://wa.me/5544988271929)
-
----
